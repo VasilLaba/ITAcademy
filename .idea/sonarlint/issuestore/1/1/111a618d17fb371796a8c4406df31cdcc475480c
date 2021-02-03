@@ -1,0 +1,23 @@
+
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨À¢ä8ñÜºö.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ÜÇ‚ø8Œğğºö.
+{
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¯ıúÿÿÿÿ8ìµë»ö.
+N
+java:S1172F",Remove this unused method parameter "floor".(„Ùıßúÿÿÿÿ8‹Óı»ö.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Ø÷Ô‰ûÿÿÿÿ8¹¸éºö.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8÷·‡»ö.
+}
+java:S3923O"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Â¢½Ìşÿÿÿÿ8ñş‚½ö.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(¥ÏÖœ8ìŞıºö.
+Z
+java:S1854-"8Remove this useless assignment to local variable "user".(¦Ô‡Ùüÿÿÿÿ8ğ…áºö.
+}
+java:S3923d"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Â¢½Ìşÿÿÿÿ8†™‹½ö.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¼Û´Å8ªÇ°¼ö.
+t
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(„Ùıßúÿÿÿÿ8†™‹½ö.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(Î¬’ùÿÿÿÿ8öĞ€»ö.
